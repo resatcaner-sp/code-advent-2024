@@ -2,7 +2,7 @@
 name = "code-advent-2024"
 version = "0.1.0"
 description = ""
-authors = ["caner bas <caner.bas@statsperform.com>"]
+authors = ["caner bas"]
 readme = "README.md"
 packages = [{include = "code_advent_2024"}]
 
